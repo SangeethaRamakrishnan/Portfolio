@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url(https://raw.github.com/FortAwesome/Font-Awesome/master/docs/assets/css/font-awesome.min.css);
+  .navbar li a, .navbar .navbar-brand {
+      color: rgb(47,166,230) !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: white !important;
+      background-color: rgb(47,166,230) !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+#about
+{    
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.75),
+      rgba(0,0,0, 0.90)
+    ),url("");
+  background-repeat:no-repeat;
+  
+}
+#imc
+{
+  margin-top:159px;
+  margin-left:10px;
+  margin-right:auto;
+}
+#abimg
+{
+  margin-top:400px;
+  margin-left:10px;
+  margin-right:auto;
+  max-width:50px;
+  max-height:50px;
+}
+#stimg
+{
+  
+  border-radius:50%;
+  margin-top:60px;
+  margin-left:65px;
+}
+#home
+{
+ color:white!important;
+}
+#hcont
+{
+ color:white!important;
+  font-weight:300 px;
+  text-align:justify;
+}
+#pab
+{
+  
+ color:white!important;
+}
+#abimg
+{
+  color:white!important;
+}
+#abcont
+{
+ color:white!important;
+}
+#pabc
+{
+ color:white!important;
+  text-align: justify;
+}
+#pct
+{
+ color:white!important;
+}
+#jimg
+{
+   max-width:50px;
+  max-height:50px;
+}
+#pimg
+{
+   max-width:50px;
+  max-height:50px;
+}
+#mimg
+{
+   max-width:50px;
+  max-height:50px;
+}
+#fimg
+{
+   max-width:50px;
+  max-height:50px;
+}
